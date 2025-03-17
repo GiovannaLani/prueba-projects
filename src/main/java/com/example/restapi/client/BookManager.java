@@ -51,6 +51,7 @@ public class BookManager {
     }
 
     public static void main(String[] args) {
+        System.out.println("1. hola");
         if (args.length != 2) {
             System.exit(0);
         }
