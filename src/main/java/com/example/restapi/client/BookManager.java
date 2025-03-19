@@ -105,5 +105,6 @@ public class BookManager {
                     System.out.println("Invalid choice. Please try again.");
             }
         }
+        System.out.println("fin");
     }
 }
